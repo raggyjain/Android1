@@ -16,19 +16,9 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/Users/RRJMBA/Documents/RJ/AndroidStudioProjects/SimpleToDo/ToDoApp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/raggyjain/Android1/blob/master/ToDoApp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
-
-## Video Walkthrough 
-
-Here's a walkthrough of implemented user stories:
-
-<img src='/Users/RRJMBA/Documents/RJ/AndroidStudioProjects/SimpleToDo/ToDoApp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 
 
 
